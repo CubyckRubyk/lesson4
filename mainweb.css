@@ -47,29 +47,33 @@ display: flex;
     height: 150px;
     background: darkgoldenrod;
     border-radius: 2px;
+    display: flex;
+    flex: border-box;
+    justify-content: space-evenly;
+
 }
-.img {
-    height: 50px;
-    width: 50px;
+img {
+    height: 150px;
 }
+
 .dowpart {
 display: flex;
 }
 .articles5 {
-    width: 850px;
+    width: 70vw;
     height: 1300px;
     background: silver;
     border-radius: 2px;
 }
 .links6 {
-    width: 190px;
+    width: 30vw;
     height: 1300px;
     background: cadetblue;
     border-radius: 2px;
 }
 .contactinfo7 {
     height: 200px;
-    width: 1040px;
+    width: 100vw;
     background: black;
     border-radius: 2px;
     color: #fcfcfc;

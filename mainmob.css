@@ -1,5 +1,26 @@
-@media screen and (min-width: 400px) and (max-width: 900px) {
+@media screen and (min-width: 20px) and (max-width: 900px) {
     .wrap {
         background: gold;
+    }
+    .menu1 {
+        width: 100vw;
+    }
+    .all {
+
+    }
+    .sidemenu2 {
+        display: none;
+    }
+    .dowpart {
+        display: flex;
+        flex-direction: column;
+    }
+    .articles5 {
+        width: 100vw;
+        height: 400px;
+    }
+    .links6 {
+        width: 100vw;
+        height: 300px;
     }
 }
